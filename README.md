@@ -5,7 +5,7 @@ Alina Danci
 This game was designed in Unity.This game comes with a splashscreen and a START button.When the start button is pressed 
 the game begins.It is a basic game where is a hat that catches rabbits, this game includes timer to show how much time is 
 left for the game. It also includes a score. Every time a rabbit is cought in the hat the score increases. When the game is over 
-you get a GAME OVER! sign and a RESTART button. 
+you get a GAME OVER! sign and a RESTART button. I only made a basic game on unity and I spent most of the time trying to get the Mobile services working since it was the most important part of the project. I have only recently found out that you have uploaded a working version of it on Visual studio.
 
 ##Functionality I didn't have time to add
 *What i could improve on.The game only spawns the rabits which fall. I also had bombs i wanted to add.
